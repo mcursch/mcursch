@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Matthew Curschman. I graduated from the University of Florida in 2022 with a degree in Computer Engineering. I have been in industry for a little over 2 years. I am currently looking for work in any field of software development or software engineering. I would describe myself as a curious learner, and a determined worker. 
+
 - 🌱 I’m currently learning ...
   - Backend Development with Django
   - Backend Development with Ruby on Rails
